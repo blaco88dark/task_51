@@ -1,0 +1,15 @@
+.maincontainer{
+    background-color: gray;
+    height: 300px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+    width: 1000px;
+
+}
+.box{
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+    margin: 20px;
+}
